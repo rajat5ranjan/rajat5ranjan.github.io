@@ -148,6 +148,7 @@ a:hover {
 }
 
 h1, .h1 {
+  "font-family: 'ce';
   font-size: 42px;
   line-height: 1.285;
   font-weight: 300;
@@ -12849,3 +12850,13 @@ span.next-arrow svg {
 }
 
 /*# sourceMappingURL=slides.css.map */
+
+
+
+@font-face {
+  font-family: 'Dry Brush';
+  src: url('DryBrush.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  
+}
