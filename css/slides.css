@@ -108,7 +108,7 @@ img.rounded {
 .slides {
   color: #fff;
   fill: #fff;
-  font-family: "Roboto", sans-serif;
+  font-family: monospace;
   -webkit-hyphens: none;
       -ms-hyphens: none;
           hyphens: none;
@@ -148,7 +148,6 @@ a:hover {
 }
 
 h1, .h1 {
-  "font-family: 'ce';
   font-size: 42px;
   line-height: 1.285;
   font-weight: 300;
@@ -8513,6 +8512,7 @@ span.next-arrow svg {
   opacity: 0.8 !important;
 }
 
+
 .opacity-9 {
   opacity: 0.9 !important;
 }
@@ -12858,5 +12858,5 @@ span.next-arrow svg {
   src: url('DryBrush.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-  
+
 }
