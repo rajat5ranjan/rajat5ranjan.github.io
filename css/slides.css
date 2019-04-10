@@ -12855,7 +12855,7 @@ span.next-arrow svg {
 
 @font-face {
   font-family: 'Dry Brush';
-  src: url('DryBrush.ttf') format('truetype');
+  src: url('../assets/fonts/DryBrush.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 
